@@ -28,7 +28,7 @@ function ExpenseForm(props){
       setEnteredAmount('');
    };
     return(
-        <form onsSubmit={submitHandler}>
+        <form onsubmit={submitHandler}>
             <div className='new-expense__controls'>
             <div className='new-expense__control'>
                 <lable>Title</lable>
