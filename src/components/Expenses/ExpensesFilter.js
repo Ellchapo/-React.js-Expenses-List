@@ -17,11 +17,10 @@ const ExpensesFilter = (props) => {
           <option value='2021'>2021</option>
           <option value='2020'>2020</option>
           <option value='2019'>2019</option>
-<<<<<<< HEAD
-          <option value='2023'>2023</option>
-=======
+
+        
           <option value='2022'>2022</option>
->>>>>>> 5ea64c01c937a4858cdcaa4184ec6456db36ede6
+
           <option value='2024'>2024</option>
         </select>
       </div>
